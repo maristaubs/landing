@@ -1,0 +1,39 @@
+.banner {
+  padding-top: 60px;
+  border-bottom: 1px solid #1F3A93;
+}
+
+.banner .container{
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.banner-img {
+  margin-bottom: -32px;
+
+}
+
+.banner-info {
+  width: 35%;
+}
+
+.btn-orange {
+  background-color: #FF6B35;
+  color: #1F1A14;
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 16px;
+}
+
+.banner-eyebrow {
+  color: #FF6B35;
+  font-size: 12px;
+  font-weight: 600;
+  background-color: white;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  margin-bottom: 0;
+}

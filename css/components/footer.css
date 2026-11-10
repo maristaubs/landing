@@ -1,0 +1,22 @@
+.footer {
+  background-color: #1F3A93;
+  color: #F5F0E6;
+  text-align: center;
+  padding: 60px 0;
+  margin-top: 60px;
+}
+
+.socials a {
+  color: #F5F0E6;
+  font-size: 30px;
+}
+
+.footer p {
+  font-size: 12px;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 26px
+}
